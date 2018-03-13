@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://nhatanfoods.shop' target='_blank'><img src='https://bizweb.dktcdn.net/100/169/223/themes/501782/assets/img_coverage1.jpg?1520158605290' width='500px'/><br/>13 Nguyên liệu dụng cụ làm bánh Nhất An</a>. Liên hệ: 0931847626. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://nhatanfoods.shop' target='_blank'><img src='https://bizweb.dktcdn.net/100/169/223/themes/501782/assets/img_coverage1.jpg?1520158605290' width='500px'/><br/>Nguyên liệu dụng cụ làm bánh Nhất An</a>. Liên hệ: 0931847626. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
